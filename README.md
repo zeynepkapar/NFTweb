@@ -21,5 +21,6 @@ Başlık Alanı (Header)
 
 Aşağıda projeye ait ekran görüntüsünü görebilirsiniz:
 
-<img width="1920" height="2987" alt="nftweb" src="https://github.com/user-attachments/assets/f1a174d0-c736-4353-86f5-ff9346a9c4cc" />
+<img width="1654" height="2594" alt="127 0 0 1_5500_index kopyası html" src="https://github.com/user-attachments/assets/46c60481-2668-4fa6-814c-d7ff47ce8411" />
+
 
