@@ -1,4 +1,4 @@
-NFT Web Sitesi
+## NFT Web Sitesi
 
 Bu projede modern HTML ve CSS kullanarak tamamen duyarlı (responsive) bir NFT web sitesi tasarladım. Renk teması canlı ve modern bir yapıya sahip.
 Tasarımda CSS Flexbox, Media Queries (farklı ekran boyutlarına uyum için) ve CSS geçiş (transition) efektleriyle animasyonlar kullandım.
@@ -17,7 +17,7 @@ Gezinti Menüsü (Navbar)
 
 Başlık Alanı (Header)
 
-Ekran Görüntüsü
+## Ekran Görüntüsü
 
 Aşağıda projeye ait ekran görüntüsünü görebilirsiniz:
 
